@@ -1,9 +1,0 @@
-name: Fit18
-sceneByURL:
-  - url:
-      - fit18.com
-    action: script
-    script:
-      - python3
-      - Fit18.py
-# Last Updated September 08, 2021
